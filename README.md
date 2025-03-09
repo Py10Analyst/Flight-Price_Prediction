@@ -1,5 +1,5 @@
 # Flight-Price_Prediction:Flight-Price_Prediction@Kaggle_Dataset: EDA+Feature_Engineering
-Flight-Price_Prediction@Kaggle_Dataset: EDA+Feature_Engineering
+
 Objective:
 The goal of this project is to analyze flight pricing data using Exploratory Data Analysis (EDA) and Feature Engineering (FE) to understand the factors affecting flight prices and prepare the dataset for predictive modeling.
 
@@ -48,6 +48,6 @@ Conclusion:
 Potential Next Steps:
 #Feature Selection – Remove less important features to improve model performance.
 #Outlier Detection & Removal – Use boxplots and IQR method to remove extreme values.
-#	Machine Learning Models – Train models like Linear Regression, Decision Trees, or Random Forest for flight price prediction.
+#Machine Learning Models – Train models like Linear Regression, Decision Trees, or Random Forest for flight price prediction.
 
 
